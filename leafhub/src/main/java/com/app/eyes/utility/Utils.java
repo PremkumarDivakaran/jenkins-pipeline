@@ -5,7 +5,7 @@ import java.util.Calendar;
 import java.util.Date;
 
 import javax.servlet.http.HttpSession;
-
+// This is comment
 public class Utils {
 	
 	public Utils() {
